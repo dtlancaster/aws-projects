@@ -12,19 +12,13 @@ Using Amplify, you can use your existing front-end skillset to add cloud functio
 Build and host a web or mobile application on the AWS Global content delivery network (CDN).
 
 ### 2. Add Authentication
-Add authentication to your application to enable sign-in and sign-out.
+Add authentication to the application to enable sign-in and sign-out.
 
 ### 3. Add Database and Storage
 Add a GraphQL API, database, and storage solution to the application.
 
 <br/>
 
+
 ## Frameworks Used:
 React, iOS, Android, Flutter
-
-<br/>
-
-# File Details (React):
-
-## amplifyapp
-React directory created via the create-react-app command in order to bootstrap a React application.
