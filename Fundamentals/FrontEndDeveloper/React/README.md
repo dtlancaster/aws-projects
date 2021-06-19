@@ -1,3 +1,19 @@
+# Goals for this Project:
+
+## 1. Host Web or Mobile Application
+
+Build and host a web or mobile application on the AWS Global content delivery network (CDN).
+
+## 2. Add Authentication
+
+Add authentication to the application to enable sign-in and sign-out.
+
+## 3. Add Database and Storage
+
+Add a GraphQL API, database, and storage solution to the application.
+
+<br/>
+
 # Services Used:
 
 AWS Amplify (Console & CLI), AWS IAM, AWS Cognito, AWS AppSync, Amazon S3, Amazon DynamoDB (GraphQL API)
