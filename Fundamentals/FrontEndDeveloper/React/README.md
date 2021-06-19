@@ -30,7 +30,7 @@ Schema for the GraphQL API used by the application
 `amplify add auth` to create an authentication service<br/>
 `amplify push --y` to deploy the authentication service after it has been configured locally<br/>
 
-`amplify add api` to add APIs to your application (GraphQL API)
+`amplify add api` to add APIs to your application (GraphQL API)<br/>
 `amplify console api` to view the GraphQL API
 
 `amplify add storage` to add image storage functionality
