@@ -22,8 +22,9 @@ AWS Amplify (Console & CLI), AWS IAM, AWS Cognito, AWS AppSync, Amazon S3, Amazo
 
 # File/Directory Details:
 
-## React directory created via `create-react-app` to bootstrap a React application.
+## amplifyapp 
 
+Directory created via `create-react-app` to bootstrap a React application.
 When in the project directory, run `npm start` in the command line.
 
 ## amplify.yml
