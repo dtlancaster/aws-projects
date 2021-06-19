@@ -6,19 +6,6 @@ Using Amplify, you can use your existing front-end skillset to add cloud functio
 
 <br/>
 
-## Goals for this Project:
-
-### 1. Host Web or Mobile Application
-Build and host a web or mobile application on the AWS Global content delivery network (CDN).
-
-### 2. Add Authentication
-Add authentication to the application to enable sign-in and sign-out.
-
-### 3. Add Database and Storage
-Add a GraphQL API, database, and storage solution to the application.
-
-<br/>
-
-
 ## Frameworks Used:
+
 React, iOS, Android, Flutter
