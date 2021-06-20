@@ -8,4 +8,4 @@ Using Amplify, you can use your existing front-end skillset to add cloud functio
 
 ## Frameworks Used:
 
-React, iOS, Android, Flutter
+React, Android, Flutter
